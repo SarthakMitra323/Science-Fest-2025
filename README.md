@@ -27,7 +27,6 @@ SCIENCE FEST 2025/
 ├── index.html          # Main HTML file
 ├── styles.css          # All styling and animations
 ├── script.js           # JavaScript functionality and Firebase integration
-├── firebase-config.md  # Firebase setup instructions
 └── README.md          # This file
 ```
 
@@ -188,3 +187,4 @@ For questions or support, reach out to the TFFS team.
 ---
 
 **Developed with ❤️ by Team TFFS | Nexus AI Project | Science Fest 2025**
+
